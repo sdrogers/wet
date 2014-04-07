@@ -1,4 +1,4 @@
-<!--#include virtual="/headthings.html" -->
+<!--#include virtual="./headthings.html" -->
 	<div class="page-header">
 		<div class="container">
 		<h2>Our sponsor</h2>
@@ -10,4 +10,4 @@
 	Some content here, pictures etc
 	</div>
 
-<!--#include virtual="/footthings.html" -->
+<!--#include virtual="./footthings.html" -->

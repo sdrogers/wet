@@ -1,4 +1,4 @@
-<!--#include virtual="/headthings.html" -->
+<!--#include virtual="./headthings.html" -->
 	<div class="page-header">
 		<div class="container">
 		<h2>Previous tournaments</h2>
@@ -14,4 +14,4 @@
 		<hr>
 	</div>
 
-<!--#include virtual="/footthings.html" -->
+<!--#include virtual="./footthings.html" -->

@@ -1,4 +1,4 @@
-<!--#include virtual="/headthings.html" -->
+<!--#include virtual="./headthings.html" -->
 	<div class="page-header">
 		<div class="container">
 		<h2>Club details</h2>
@@ -43,4 +43,4 @@
 		</div>
 	</div> 
 
-<!--#include virtual="/footthings.html" -->
+<!--#include virtual="./footthings.html" -->

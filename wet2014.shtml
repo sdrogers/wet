@@ -1,4 +1,4 @@
-<!--#include virtual="/headthings.html" -->
+<!--#include virtual="./headthings.html" -->
 	<div class="page-header">
 		<div class="container">
 		<h2>2014 Tournament</h2>
@@ -20,4 +20,4 @@
 	<p>You can enter online by clicking <a href="#">here</a> or by downloading the <a href="#">entry form</a> and handing it into your <a href="/clubreps.shtml">club representative</a>.
 	</div>
 
-<!--#include virtual="/footthings.html" -->
+<!--#include virtual="./footthings.html" -->
