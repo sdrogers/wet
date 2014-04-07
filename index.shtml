@@ -1,0 +1,4 @@
+<html>
+	This is a test
+	<!--#echo var="DATE_LOCAL" -->
+</html>
