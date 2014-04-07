@@ -15,12 +15,12 @@
         <div class="col-md-4">
           <h2>2014 tournament</h2>
           <p>The 2014 tournament will be hosted by Hillhead LTC.</p>
-          <p><a class="btn btn-default" href="/wet2014.shtml" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-default" href="./wet2014.shtml" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
           <h2>Colin Fleming Masterclass</h2>
           <p>Some intro text here </p>
-          <p><a class="btn btn-default" href="/colin.shtml" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-default" href="./colin.shtml" role="button">View details &raquo;</a></p>
        </div>
         <div class="col-md-4">
           <h2>Our sponsors</h2>
