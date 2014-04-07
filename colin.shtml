@@ -1,0 +1,13 @@
+<!--#include virtual="/headthings.html" -->
+	<div class="page-header">
+		<div class="container">
+		<h2>Colin Fleming Masterclass</h2>
+		<p>Thanks to our sponsors, all 2013 junior winners were able to take part in a masterclass with top British doubles player Colin Fleming</p>
+		</div>
+	</div>
+
+	<div class="container">
+	Some content here, pictures etc
+	</div>
+
+<!--#include virtual="/footthings.html" -->

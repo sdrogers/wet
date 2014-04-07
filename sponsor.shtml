@@ -1,0 +1,13 @@
+<!--#include virtual="/headthings.html" -->
+	<div class="page-header">
+		<div class="container">
+		<h2>Our sponsor</h2>
+		<p>Tyada yada yada</p>
+		</div>
+	</div>
+
+	<div class="container">
+	Some content here, pictures etc
+	</div>
+
+<!--#include virtual="/footthings.html" -->

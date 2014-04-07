@@ -1,0 +1,23 @@
+<!--#include virtual="/headthings.html" -->
+	<div class="page-header">
+		<div class="container">
+		<h2>2014 Tournament</h2>
+		</div>
+	</div>
+
+	<div class="container">
+	<p>The 2014 tournament will be hosted by <a href="http://www.hillheadtennis.co.uk/" target="new">Hillhead LTC</a> from xxx to xxx.</p>
+	<hr>
+	<p>The following events will be held:</p>
+	<ul>
+		<li>Men's singles</li>
+		<li>Ladies singles</li>
+		<li>and</li>
+		<li>lots</li>
+		<li>of</li>
+		<li>others</li>
+	</ul>
+	<p>You can enter online by clicking <a href="#">here</a> or by downloading the <a href="#">entry form</a> and handing it into your <a href="/clubreps.shtml">club representative</a>.
+	</div>
+
+<!--#include virtual="/footthings.html" -->

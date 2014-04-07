@@ -1,0 +1,17 @@
+<!--#include virtual="/headthings.html" -->
+	<div class="page-header">
+		<div class="container">
+		<h2>Previous tournaments</h2>
+		<p>The tournament has been held since etc etc</p>
+		</div>
+	</div>
+
+	<div class="container">
+		<h3>2013</h3>
+
+		<hr>
+		<h3>2012</h3>
+		<hr>
+	</div>
+
+<!--#include virtual="/footthings.html" -->

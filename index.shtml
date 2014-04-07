@@ -1,4 +1,33 @@
-<html>
-	This is a test
-	<!--#echo var="DATE_LOCAL" -->
-</html>
+<!--#include virtual="/headthings.html" -->
+	
+   <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron">
+      <div class="container">
+        <h2>Glasgow West End Tennis Tournament</h2>
+        <p>Welcome to the blah blah blah, more basic content here</p>
+      </div>
+    </div>
+
+
+     <div class="container">
+      <!-- Example row of columns -->
+      <div class="row">
+        <div class="col-md-4">
+          <h2>2014 tournament</h2>
+          <p>The 2014 tournament will be hosted by Hillhead LTC.</p>
+          <p><a class="btn btn-default" href="/wet2014.shtml" role="button">View details &raquo;</a></p>
+        </div>
+        <div class="col-md-4">
+          <h2>Colin Fleming Masterclass</h2>
+          <p>Some intro text here </p>
+          <p><a class="btn btn-default" href="/colin.shtml" role="button">View details &raquo;</a></p>
+       </div>
+        <div class="col-md-4">
+          <h2>Our sponsors</h2>
+          <p>Who are they!?</p>
+          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+        </div>
+      </div>
+      </div>
+
+<!--#include virtual="/footthings.html" -->
