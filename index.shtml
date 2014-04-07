@@ -1,4 +1,4 @@
-<!--#include virtual="/headthings.html" -->
+<!--#include virtual="./headthings.html" -->
 	
    <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
@@ -30,4 +30,4 @@
       </div>
       </div>
 
-<!--#include virtual="/footthings.html" -->
+<!--#include virtual="./footthings.html" -->
