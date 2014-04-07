@@ -1,0 +1,29 @@
+<!--#include virtual="./headthings.html" -->
+	<div class="page-header">
+		<div class="container">
+		<h2>Tournament Organisers</h2>
+		<p>Tyada yada yada</p>
+		</div>
+	</div>
+
+	<div class="container">
+	<div class="row">
+	<div class="col-md-4">
+	<h3>Julie Gordon</h3>
+	<p>This is a bio for Julie. etc etc</p>
+	<p style="text-align:center;"><img src="./images/julie.jpg" width=150px></p>
+	</div>
+	<div class="col-md-4">
+	<h3>Keith Fowler</h3>
+	<p>This is aBio for Keith</p>
+	<p style="text-align:center;"><img src="./images/keith.jpg" width=150px></p>
+	</div>
+	<div class="col-md-4">
+	<h3>Simon Rogers</h3>
+	<p>Simon is a lecturer in the School of Computing Science at the University of Glasgow. He plays tennis for Western.</p>
+	<p>You can find out more about his real job <a href="http://www.dcs.gla.ac.uk/~srogers">here</a> or follow him on Twitter <a href="http://twitter.com/sdrogers">here</a>, or email him at <a href="mailto:simon.d.rogers@gmail.com">simon.d.rogers@gmail.com</a></p>
+	<p style="text-align:center;"><img src="./images/simon.jpg" width=150px></p>
+	</div>
+	</div>
+	</div>
+<!--#include virtual="./footthings.html" -->

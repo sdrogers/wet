@@ -1,10 +1,10 @@
 <!--#include virtual="./headthings.html" -->
 	
    <!-- Main jumbotron for a primary marketing message or call to action -->
-    <div class="jumbotron">
+    <div class="page-header">
       <div class="container">
-        <h2>Glasgow West End Tennis Tournament</h2>
-        <p>Welcome to the blah blah blah, more basic content here</p>
+        <h2>The McCrea Financial Services West End Tournament 2014</h2>
+        <p><img src="./images/mccrea4.jpg" style="float:left;">Welcome to the blah blah blah, more basic content here</p>
       </div>
     </div>
 
@@ -17,17 +17,31 @@
           <p>The 2014 tournament will be hosted by Hillhead LTC.</p>
           <p><a class="btn btn-default" href="./wet2014.shtml" role="button">View details &raquo;</a></p>
         </div>
+
         <div class="col-md-4">
           <h2>Colin Fleming Masterclass</h2>
           <p>Some intro text here </p>
           <p><a class="btn btn-default" href="./colin.shtml" role="button">View details &raquo;</a></p>
        </div>
+             	
+
         <div class="col-md-4">
           <h2>Our sponsors</h2>
           <p>Who are they!?</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-default" href="./sponsor.shtml" role="button">View details &raquo;</a></p>
         </div>
       </div>
       </div>
+      <br />
+      <div class="container">
+      <div class="row">
+      <div class="col-md-2"></div>
+      <div class="col-md-8">
+      <a class="twitter-timeline" width="100%" href="https://twitter.com/WestEndTournie" data-widget-id="453277759611998208">Tweets by @WestEndTournie</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+<div class="col-md-2"></div>
+</div>
+
 
 <!--#include virtual="./footthings.html" -->
