@@ -2,7 +2,7 @@
 	<div class="page-header">
 		<div class="container">
 		<h2>Club details</h2>
-		<p>Glasgow West End Tennis Tournament is open to members of the clubs listed below. Each year, one club hosts the tournament. etc etc etc</p>
+		<p>Glasgow West End Tennis Tournament is open to members of the clubs listed below. Clubs take turns hosting finals day. Matches are played at all clubs.</p>
 		</div>
 	</div>
 
@@ -11,34 +11,34 @@
 		<div class="row">
 			<div class="col-md-6">
 				<h3><a href="http://www.glasgowwestern.co.uk">Western Fitness and Rackets Club</a></h3>
-				<p>Club contact: Julie Gordon</p>
+				<p>Club contact: <a href="mailto:minitennis@glasgowwestern.co.uk">Julie Gordon</a></p>
 			</div>
 		
 			<div class="col-md-6">
 				<h3><a href="http://www.hillheadtennis.co.uk" target=new>Hillhead LTC</a></h3>
-				<p>Club contact: Keith Fowler</p>
+				<p>Club contact: <a href="mailto:keithworldwide@hotmail.com">Keith Fowler</a></p>
 			</div>
 		</div>
 		<div class="row">
 			<div class="col-md-6">
-				<h3><a href="http://www.glasgowwestern.co.uk">Broomhill</a></h3>
-				<p>Club contact: Julie Gordon</p>
+				<h3><a href="http://www.broomhill-tennis-squash.co.uk/">Broomhill</a></h3>
+				<p>Club contact: TBC</p>
 			</div>
 		
 			<div class="col-md-6">
-				<h3><a href="http://www.hillheadtennis.co.uk" target=new>Dowanhill</a></h3>
-				<p>Club contact: Keith Fowler</p>
+				<h3>Dowanhill</h3>
+				<p>Club contact: Pat MacCambridge</p>
 			</div>
 		</div>
 		<div class="row">
 			<div class="col-md-6">
-				<h3><a href="http://www.glasgowwestern.co.uk">David Lloyd Glasgow West End</a></h3>
-				<p>Club contact: Julie Gordon</p>
+				<h3><a href="http://www.davidlloyd.co.uk/home/clubs/glasgowwestend?tmcampid=48&tmad=c&tmplaceref=Aberdeen-Brand&tmclickref=david_lloyd_+aberdeen-Exact&9gtype=search&9gkw=david%20lloyd%20%2Bglasgow%20west%20end&9gad=45450366749.1&utm_source=google&utm_medium=cpc&utm_campaign=Aberdeen-Brand&utm_term=david_lloyd_+aberdeen&utm_content=Exact&atrkid=V1ADWCAE9FBCE-6635364389-k-david+lloyd+%2Bglasgow+west+end-45450366749-e-g-m-1t1">David Lloyd Glasgow West End</a></h3>
+				<p>Club contact: <a href="mailto:rusm-28@hotmail.co.uk">Russell Martin</a></p>
 			</div>
 		
 			<div class="col-md-6">
-				<h3><a href="http://www.hillheadtennis.co.uk" target=new>Woodend</a></h3>
-				<p>Club contact: Keith Fowler</p>
+				<h3><a href="http://www.woodendbltc.co.uk/" target=new>Woodend</a></h3>
+				<p>Club contact: TBC</p>
 			</div>
 		</div>
 	</div> 

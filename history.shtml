@@ -1,0 +1,12 @@
+<!--#include virtual="./headthings.html" -->
+	<div class="page-header">
+		<div class="container">
+		<div><h2>History</h2>
+		</div>
+	</div>
+
+	<div class="container">
+	<p>History to go here</p>
+	</div>
+
+<!--#include virtual="./footthings.html" -->

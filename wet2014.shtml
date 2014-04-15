@@ -6,27 +6,66 @@
 	</div>
 
 	<div class="container">
-	<p>The 2014 tournament will be hosted by <a href="http://www.hillheadtennis.co.uk/" target="new">Hillhead LTC</a> from xxx to xxx.</p>
-	<hr>
-	<p>The following events will be held:</p>
-	<ul>
-		<li>Gents singles</li>
-		<li>Ladies singles</li>
-		<li>Gents doubles</li>
-		<li>Ladies doubles</li>
-		<li>Mixed doubles</li>
-		<li>Over 45 ladies doubles</li>
-		<li>Over 45 gents doubles</li>
-		<li>U16 boys singles</li>
-		<li>U16 boys doubles</li>
-		<li>U16 girls singles</li>
-		<li>U16 girls doubles</li>
-		<li>U12 boys singles</li>
-		<li>U12 boys doubles</li>
-		<li>U12 girls singles</li>
-		<li>U12 girls doubles</li>
-	</ul>
-	<p>You can enter online by clicking <a href="#">here</a> or by downloading the <a href="#">entry form</a> and handing it into your <a href="/clubreps.shtml">club representative</a>.
+		<div class="row">
+			<div class="col-md-12">
+				<p>The 2014 tournament will be hosted by <a href="http://www.hillheadtennis.co.uk/" target="new">Hillhead LTC</a> from 15th August to the weekend of 30th/31st August.</p>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-4">
+
+				<p>The following events will be held:</p>
+				<ul>
+					<li>Gents singles</li>
+					<li>Ladies singles</li>
+					<li>Gents doubles</li>
+					<li>Ladies doubles</li>
+					<li>Mixed doubles</li>
+					<li>Over 45 ladies doubles</li>
+					<li>Over 45 gents doubles</li>
+					<li>U16 boys singles</li>
+					<li>U16 boys doubles</li>
+					<li>U16 girls singles</li>
+					<li>U16 girls doubles</li>
+					<li>U12 boys singles</li>
+					<li>U12 boys doubles</li>
+					<li>U12 girls singles</li>
+					<li>U12 girls doubles</li>
+					<li><b>New:</b> U10 green singles</li>
+					<li><b>New:</b> U9 orange singles</li>
+					<li><b>New:</b> U8 red singles</li>
+				</ul>
+			</div>
+
+			<div class="col-md-4">
+				<p>&nbsp;</p>
+				<p>&nbsp;</p>
+				<p>&nbsp;</p>
+				<p style="text-align:center;vertical-align:center;">
+				<img src="./images/scoreboard_small.jpg" style="float:right;" width=100%>
+				</p>
+			</div>
+			<div class="col-md-4">
+				&nbsp;
+			</div>
+
+		</div>
+
+		<div class="row">
+			<div class="col-md-12">
+				<hr />
+				<p>This year, we are running U10, U9 and U8 singles events for the first time. In addition, first round losers in the Gents, Ladies, and Mixed doubles will be entered into plate competitions, guaranteeing at least two matches per pair.</p>
+				<hr />
+				<h4>Entries</h4>
+				<p>You can enter online by clicking <a href="#">here</a> or by downloading the <a href="#">entry form</a> and handing it into your <a href="./clubdetails.shtml">club representative</a>.
+				<p>If you have a query about junior events, email <a href="mailto:minitennis@glasgowwestern.co.uk">Julie Gordon</a></p>
+				<hr />
+				<h4>Ratings and BTM Membership</h4>
+				<p>The West End Tournament counts towards LTA ratings. If you have an LTA number, your ratings will be updated automatically. If you don’t have a number, don’t worry, you can still enter!
+				To obtain an LTA number, you need to sign up for a free LTA membership (click here to start). You need to be a member to play any team tennis and affiliating with your club helps them acquire more Wimbledon tickets so well worthwhile.</p>
+
+			</div>
+		</div>
 	</div>
 
 <!--#include virtual="./footthings.html" -->

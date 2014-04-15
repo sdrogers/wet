@@ -1,13 +1,12 @@
 <!--#include virtual="./headthings.html" -->
 	<div class="page-header">
 		<div class="container">
-		<h2>Our sponsor</h2>
-		<p>Tyada yada yada</p>
+		<h2>Our sponsor - McCrae Financial Services</h2>
+		
 		</div>
 	</div>
 
 	<div class="container">
-	<h3>McRea Financial Services</h3>
 	<p><img src="./images/mccrea4.jpg" style="float:right;">We are delighted that once again the tournament is being sponsored by <a href="http://www.mccreafs.co.uk/">McCrea Financial Services</a></p>
 	</div>
 

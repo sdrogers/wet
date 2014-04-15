@@ -2,7 +2,6 @@
 	<div class="page-header">
 		<div class="container">
 		<h2>Tournament Organisers</h2>
-		<p>Tyada yada yada</p>
 		</div>
 	</div>
 
@@ -10,18 +9,19 @@
 	<div class="row">
 	<div class="col-md-4">
 	<h3>Julie Gordon</h3>
-	<p>This is a bio for Julie. etc etc</p>
+	<p>Julie has been coaching at Western Tennis Club since 1998. She organises the junior programme at Western. Julie oversees the Junior events in the tournament and is club liaison contact.</p>
+	<p>'Like' Julie on <a href="http://www.facebook.com/juliegtennis" target="new">Facebook</a>, follow her on <a href="http://www.twitter.com/juliegtennis" target="new">twitter</a> or email her at <a href="mailto:minitennis@glasgowwestern.co.uk">minitennis@glasgowwestern.co.uk</a></p>
 	<p style="text-align:center;"><img src="./images/julie.jpg" width=150px></p>
 	</div>
 	<div class="col-md-4">
 	<h3>Keith Fowler</h3>
-	<p>This is aBio for Keith</p>
+	<p>Keith is the Chairman of Hillhead Sports Club. He oversees the senior events in the tournament and is the overall tournament referee. You can email Keith at <a href="maito:keithworldwide@hotmail.com">keithworldwide@hotmail.com</a></p>
 	<p style="text-align:center;"><img src="./images/keith.jpg" width=150px></p>
 	</div>
 	<div class="col-md-4">
 	<h3>Simon Rogers</h3>
-	<p>Simon is a lecturer in the School of Computing Science at the University of Glasgow. He plays tennis for Western.</p>
-	<p>You can find out more about his real job <a href="http://www.dcs.gla.ac.uk/~srogers">here</a> or follow him on Twitter <a href="http://twitter.com/sdrogers">here</a>, or email him at <a href="mailto:simon.d.rogers@gmail.com">simon.d.rogers@gmail.com</a></p>
+	<p>Simon is a lecturer in the School of Computing Science at the University of Glasgow. He plays tennis for Western. He maintains the tournament website and is in charge of results processing.</p>
+	<p>Follow him on Twitter <a href="http://twitter.com/sdrogers">here</a>, or email him at <a href="mailto:simon.d.rogers@gmail.com">simon.d.rogers@gmail.com</a></p>
 	<p style="text-align:center;"><img src="./images/simon.jpg" width=150px></p>
 	</div>
 	</div>
