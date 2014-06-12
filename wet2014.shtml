@@ -59,9 +59,11 @@
 				<hr />
 				<h4>Tournament Conditions</h4>
 				<p>Full tournament conditions are available <a href="./documents/conditions2014.pdf">here</a>. Of particular importance is condition 1:</p>
-				<div>
+				<blockquote>
+				<p>
 				All entrants must be available to play on the opening weekend (16th and 17th August) and for all other ties and finals as detailed in the tournament schedule issued following the draw. Ties will not be rescheduled to meet individual availability. Competitors are responsible for checking when their ties are to be played
-				</div>
+				</p>
+				</blockquote>
 				<hr />
 				<h4>Entries</h4>
 				<p>You can enter online by clicking <a href="#">here</a> or by downloading the <a href="#">entry form</a> and handing it into your <a href="./clubdetails.shtml">club representative</a>.
