@@ -1,13 +1,16 @@
 <!--#include virtual="./headthings.html" -->
 	<div class="page-header">
 		<div class="container">
-		<h2>Our sponsor - McCrae Financial Services</h2>
-		
+		<h2>Our Main Sponsor - McCrae Financial Services</h2>
 		</div>
 	</div>
 
 	<div class="container">
-	<p><img src="./images/mccrea4.jpg" style="float:right;">We are delighted that once again the tournament is being sponsored by <a href="http://www.mccreafs.co.uk/">McCrea Financial Services</a></p>
+	<p><img src="./images/mccrea4.jpg" style="float:right;">We are delighted that once again our headline sponsor for the West End Tournament is <a href="http://www.mccreafs.co.uk/">McCrae Financial Services</a></p>
+	<p>McCrae specialise in providing good quality Independent Financial Advice to people throughout their lives. They aim to develop client trust from the outset and look at a long term commitment to provide advice not just at outset but also for many years to come.</p>
+	<p>McCreas were the first firm of Independent Financial Advisers in the UK to be awarded Investors in People GOLD Status, and continue to retain this status.</p>
+	<p>McCrae are also dedicated to "giving a bit back" to the community by being heavily involved in raising money for charity and by sponsoring many sporting events throughout the year.</p>
+	<p>You can find out more about McCrae Financial Services on their <a href="http://www.mccreafs.co.uk/">website</a></p>
 	</div>
 
 <!--#include virtual="./footthings.html" -->

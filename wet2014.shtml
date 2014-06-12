@@ -2,13 +2,14 @@
 	<div class="page-header">
 		<div class="container">
 		<h2>2014 Tournament</h2>
+		<p>Welcome to the homepage for the McCrea Financial Services Glasgow West End Tennis Tournament. The tournament is open to members of the local participating clubs and includes competition for all age ranges and abilities. The tournament generally runs for 2 weeks in August with matches taking place across all of the clubs, culminating in a fun finals day which is hosted by one of the participating clubs.</p>
 		</div>
 	</div>
 
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-				<p>The 2014 tournament will be hosted by <a href="http://www.hillheadtennis.co.uk/" target="new">Hillhead LTC</a> from 15th August to the weekend of 30th/31st August.</p>
+				<p>The 2014 tournament will run from 15th August to the weekend of 30th/31st August with Final day this year being hosted by <a href="http://www.hillheadtennis.co.uk" target="new">Hillhead LTC</a>.</p>
 			</div>
 		</div>
 		<div class="row">
@@ -55,6 +56,12 @@
 			<div class="col-md-12">
 				<hr />
 				<p>This year, we are running U10, U9 and U8 singles events for the first time. In addition, first round losers in the Gents, Ladies, and Mixed doubles will be entered into plate competitions, guaranteeing at least two matches per pair.</p>
+				<hr />
+				<h4>Tournament Conditions</h4>
+				<p>Full tournament conditions are available <a href="./documents/conditions2014.pdf">here</a>. Of particular importance is condition 1:</p>
+				<div>
+				All entrants must be available to play on the opening weekend (16th and 17th August) and for all other ties and finals as detailed in the tournament schedule issued following the draw. Ties will not be rescheduled to meet individual availability. Competitors are responsible for checking when their ties are to be played
+				</div>
 				<hr />
 				<h4>Entries</h4>
 				<p>You can enter online by clicking <a href="#">here</a> or by downloading the <a href="#">entry form</a> and handing it into your <a href="./clubdetails.shtml">club representative</a>.
