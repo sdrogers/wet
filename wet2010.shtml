@@ -10,7 +10,7 @@
 	<h3>2010</h3>
 
 	<p>The 2010 tournament was hosted at Hillhead LTC.</p>
-<table>
+<table class="table">
 <thead>
 <tr class="header">
 <th align="left">Event</th>
@@ -92,9 +92,10 @@
 </tbody>
 </table>
 <p>The West End Tournament Shield was won by Western</p>
+<hr />
 <h3>2009</h3>
 <p>The 2009 tournament was hosted by Woodend.</p>
-<table>
+<table class="table">
 <thead>
 <tr class="header">
 <th align="left">Event</th>
