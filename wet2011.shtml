@@ -8,7 +8,7 @@
 	<div class="container">
 
 
-<table border="1">
+<table class="table">
 <tr><td><b>Senior Events</b></td><td><b>Winners</b></td><td><b>Runners Up</b></td></tr>
 <tr><td>Men's Singles</td><td>James Macdonald</td><td>Gordon McGuigan</td></tr>
 <tr><td>Women's Singles</td><td> Clare Young </td><td>Jotie Purba</td></tr>
@@ -19,7 +19,7 @@
 <tr><td>Over 45 Women's Doubles</td><td> M. McLellan &amp; J. Macdonald</td><td> A. Riley &amp; J. Campbell</td></tr>
 </table>
 &nbsp;
-<table border="1">
+<table class="table">
 <tr><td><b>Junior Events</b></td><td><b>Winners</b></td><td><b>Runners Up</b></td></tr>
 <tr><td>Under 16 Boy's Singles</td><td>Calum Gibson-Smith</td><td>Max Fraser</td></tr>
 <tr><td>Under 16 Girl's Singles</td><td>Alex McGuigan</td><td>Rosa Spinney</td></tr>
