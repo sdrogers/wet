@@ -9,10 +9,8 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-			<img src="./images/schedule.png">
-			</div>
-			<div class="col-md-12">
-				<h4><a href="http://lta.tournamentsoftware.com/sport/draws.aspx?id=55B40C80-A48B-4BFC-B239-E4D27D45B5ED" target="new">Draws and schedule are available here</a></h4>
+			<h4>2014 Winners and Runners Up</h4>
+			<img src="./images/results2014.png">
 			</div>
 		</div>
 		<hr />
