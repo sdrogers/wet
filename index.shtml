@@ -3,8 +3,9 @@
    <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="page-header">
       <div class="container">
-        <h2>The McCrea Financial Services West End Tournament 2014</h2>
-        <p><img src="./images/mccrea4.jpg" style="float:left;">Welcome to the homepage for the McCrea Financial Services Glasgow West End Tennis Tournament. This year the tournament will be hosted by <a href="http://www.hillheadtennis.co.uk" target="new">Hillhead LTC</a> with matches being played across the <a href="./clubdetails.shtml">participating clubs</a>. The tournament will run from Friday 15th August to the weekend of the 30th/31st August. Entry is open to bona fide members of the participating clubs. Details of the events can be found <a href="./wet2014.shtml">here</a>.</p>
+        <h2>The McCrea Financial Services West End Tournament 2015</h2>
+        <p><img src="./images/mccrea4.jpg" style="float:left;">Welcome to the homepage for the McCrea Financial Services Glasgow West End Tennis Tournament. This year the tournament will be hosted by <a href="http://www.glasgowwestern.co.uk" target="new">Western Fitness and Rackets Club</a> with matches being played across the <a href="./clubdetails.shtml">participating clubs</a>. More details coming soon.</p>
+        <!-- The tournament will run from Friday 15th August to the weekend of the 30th/31st August. Entry is open to bona fide members of the participating clubs. Details of the events can be found <a href="./wet2014.shtml">here</a>.</p> -->
       </div>
     </div>
 
@@ -12,29 +13,31 @@
      <div class="container">
       <!-- Example row of columns -->
       <div class="row">
-      <h4>Results are now available!</h4>
+      <h4>2014 Results are now available!</h4>
       <p>
-      Sadly, the tournament is now over. A list of winners and runners up can be found <a href="./wet2014.shtml">here</a>. For a write-up by our sponsor McCrea Financial Services, click <a href="http://www.mccreafs.co.uk/sponsorship-news/west-end-tennis-finals-day.html">here</a>.
+      A list of winners and runners up from the 2014 tournament can be found <a href="./wet2014.shtml">here</a>. For a write-up by our sponsor McCrea Financial Services, click <a href="http://www.mccreafs.co.uk/sponsorship-news/west-end-tennis-finals-day.html">here</a>.
       </p>
       </div>
       <hr />
       <div class="row">
         <div class="col-md-4">
-          <h2>2014 tournament</h2>
-          <p>The 2014 tournament will be hosted by Hillhead LTC. Online entries are now closed, but you can still enter manually - details <a href="./wet2014.shtml">here</a>.</p>
+          <h2>2015 tournament</h2>
+          <p>The 2015 tournament will be hosted by Western LTC. Online entries will open soon</p>
           <p><a class="btn btn-default" href="./wet2014.shtml" role="button">View details &raquo;</a></p>
         </div>
 
         <div class="col-md-4">
           <h2>Colin Fleming Masterclass</h2>
-          <p>Thanks to our sponsor, McCrea Financial Services, all junior finalists took part in a masterclass with Colin Fleming at <a href="http://www.glasgowwestern.co.uk">Western tennis club</a> in November 2013.</p>
+          <p>Thanks to our sponsor, McCrea Financial Services, all junior finalists took part in a masterclass with Colin Fleming!</p>
+          <!--  at <a href="http://www.glasgowwestern.co.uk">Western tennis club</a> in November 2013.</p> -->
           <p><a class="btn btn-default" href="./colin.shtml" role="button">View details &raquo;</a></p>
        </div>
              	
 
         <div class="col-md-4">
           <h2>Our sponsors</h2>
-          <p>The main tournament sponsor is McCrea Financial Services. We are pleased to also announce sponsorship from Tweener, Hotel du Vin, and Currie and Quirk.</p>
+          <p>The main tournament sponsor is McCrea Financial Services.</p>
+           <!-- We are pleased to also announce sponsorship from Tweener, Hotel du Vin, and Currie and Quirk.</p> -->
           <p><a class="btn btn-default" href="./sponsor.shtml" role="button">View details &raquo;</a></p>
         </div>
       </div>
