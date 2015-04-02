@@ -1,0 +1,20 @@
+<!--#include virtual="./headthings.html" -->
+	<div class="page-header">
+		<div class="container">
+		<h2>2015 Tournament</h2>
+		<p>Welcome to the homepage for the McCrea Financial Services Glasgow West End Tennis Tournament. The tournament is open to members of the local participating clubs and includes competition for all age ranges and abilities. The tournament generally runs for 2 weeks in August with matches taking place across all of the clubs, culminating in a fun finals day which is hosted by one of the participating clubs.</p>
+		</div>
+	</div>
+
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<p>The 2015 tournament will run in August 2015 and will be hosted by <a href="http://www.glasgowwestern.co.uk" target="new">Western Fitness and Rackets Club</a>.</p>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-12">More details coming soon!</div>
+		</div>	
+	</div>
+
+<!--#include virtual="./footthings.html" -->
