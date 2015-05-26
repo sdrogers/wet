@@ -1,8 +1,20 @@
 <!--#include virtual="./headthings.html" -->
 	<div class="page-header">
 		<div class="container">
-		<h2>Colin Fleming Masterclass</h2>
-		<p>Thanks to our sponsors, all 2013 junior winners were able to take part in a masterclass with top British doubles player Colin Fleming. The event was covered by the <a href="http://www.heraldscotland.com/sport/tennis/colin-fleming-has-been-warmed-by-the-success-stories-of-two-close-friends.22774071">Glasgow Herald</a>. We are pleased to announce that this will be repeated for winners in 2014!</p>
+		<h2>Colin Fleming Masterclasses</h2>
+		<p>Thanks to our <A href="http://www.glasgowwestendtournament.com/sponsers.shtml">sponsors</A>, all 2013 and 2014 junior winners were able to take part in a masterclass with top British doubles player Colin Fleming. The event for 2013 winners was covered by the <a href="http://www.heraldscotland.com/sport/tennis/colin-fleming-has-been-warmed-by-the-success-stories-of-two-close-friends.22774071">Glasgow Herald</a>.</p>
+		<p>Some photos from the event for 2014 winners are shown below (photography courtesy of Jeff Holmes <a href="http://www.jshpix.co">www.jshpix.co</a>)</p>
+		<div class="row">
+	        <div class="col-md-4">
+	        <img src="./images/colin1_small.jpg">
+	        </div>
+	        <div class="col-md-4">
+	        <img src="./images/colin2_small.jpg">
+	        </div>
+	        <div class="col-md-4">
+	        <img src="./images/colin3_small.jpg">
+	        </div>	        
+	    </div>
 		</div>
 	</div>
 

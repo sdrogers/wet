@@ -4,7 +4,7 @@
     <div class="page-header">
       <div class="container">
         <h2>The McCrea Financial Services West End Tournament 2015</h2>
-        <p><img src="./images/mccrea4.jpg" style="float:left;">Welcome to the homepage for the McCrea Financial Services Glasgow West End Tennis Tournament. This year the tournament will be hosted by <a href="http://www.glasgowwestern.co.uk" target="new">Western Fitness and Rackets Club</a> with matches being played across the <a href="./clubdetails.shtml">participating clubs</a>. More details coming soon.</p>
+        <p><img src="./images/mccrea_small.jpg" style="float:left;margin:10px" width=150px>Welcome to the homepage for the McCrea Financial Services Glasgow West End Tennis Tournament. This year the tournament will be hosted by <a href="http://www.glasgowwestern.co.uk" target="new">Western Fitness and Rackets Club</a> with matches being played across the <a href="./clubdetails.shtml">participating clubs</a>. More details coming soon.</p>
         <!-- The tournament will run from Friday 15th August to the weekend of the 30th/31st August. Entry is open to bona fide members of the participating clubs. Details of the events can be found <a href="./wet2014.shtml">here</a>.</p> -->
       </div>
     </div>
@@ -23,7 +23,7 @@
         <div class="col-md-4">
           <h2>2015 tournament</h2>
           <p>The 2015 tournament will be hosted by Western LTC. Online entries will open soon</p>
-          <p><a class="btn btn-default" href="./wet2014.shtml" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-default" href="./wet2015.shtml" role="button">View details &raquo;</a></p>
         </div>
 
         <div class="col-md-4">
