@@ -15,8 +15,13 @@
 		<div class="row">
 			<div class="col-md-12"><h4>Online entries are now open - click <a href="http://www3.lta.org.uk/Competitions/Competition/?ctn=1-1LCL753" target="new">here</a></h4></div>
 		</div>	
-		<div class="row">Online entries are preferred, but if you are unable to do so, you can download the <a href="./documents/WETEntryForm2015.pdf">entry form</a> and hand it <b>with payment</b> to your club representative (details on form). <b>Entried without payment will not be accepted</b>.</div>
-		<div class="row">Tournament conditions can be downloaded <a href="./documents/WETConditions2015.pdf">here</a>.</div>
+		<div class="row">
+			<div class="col-md-12">Online entries are preferred, but you can also download the <a href="./documents/WETEntryForm2015.pdf">entry form</a> and hand it <b>with payment</b> to your club representative (details on form). <b>Entries without payment will not be accepted</b>.</div>
+		</div>
+		<div class="row">
+			<div class="col-md-12"><p>&nbsp;</p>
+			<p>Tournament conditions can be downloaded <a href="./documents/WETConditions2015.pdf">here</a>.</p></div>
+		</div>
 	</div>
 
 <!--#include virtual="./footthings.html" -->
