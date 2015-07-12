@@ -4,7 +4,7 @@
     <div class="page-header">
       <div class="container">
         <h2>The McCrea Financial Services West End Tournament 2015</h2>
-        <p><img src="./images/mccrea_small.jpg" style="float:left;margin:10px" width=150px>Welcome to the homepage for the McCrea Financial Services Glasgow West End Tennis Tournament. This year the tournament will be hosted by <a href="http://www.glasgowwestern.co.uk" target="new">Western Fitness and Rackets Club</a> with matches being played across the <a href="./clubdetails.shtml">participating clubs</a>. More details coming soon.</p>
+        <p><img src="./images/mccrea_small.jpg" style="float:left;margin:10px" width=150px>Welcome to the homepage for the McCrea Financial Services Glasgow West End Tennis Tournament. This year the tournament will be hosted by <a href="http://www.glasgowwestern.co.uk" target="new">Western Fitness and Rackets Club</a>, running from the 15th to the 29th of August, with matches being played across the <a href="./clubdetails.shtml">participating clubs</a>. More details <a href="./wet2015.shtml">here</a>.</p>
         <!-- The tournament will run from Friday 15th August to the weekend of the 30th/31st August. Entry is open to bona fide members of the participating clubs. Details of the events can be found <a href="./wet2014.shtml">here</a>.</p> -->
       </div>
     </div>
@@ -12,17 +12,11 @@
 
      <div class="container">
       <!-- Example row of columns -->
-      <div class="row">
-      <h4>2014 Results are now available!</h4>
-      <p>
-      A list of winners and runners up from the 2014 tournament can be found <a href="./wet2014.shtml">here</a>. For a write-up by our sponsor McCrea Financial Services, click <a href="http://www.mccreafs.co.uk/sponsorship-news/west-end-tennis-finals-day.html">here</a>.
-      </p>
-      </div>
-      <hr />
+      
       <div class="row">
         <div class="col-md-4">
           <h2>2015 tournament</h2>
-          <p>The 2015 tournament will be hosted by Western LTC. Online entries will open soon</p>
+          <p>The 2015 tournament will be hosted by Western LTC. Online entries are now open!</p>
           <p><a class="btn btn-default" href="./wet2015.shtml" role="button">View details &raquo;</a></p>
         </div>
 
@@ -34,6 +28,7 @@
        </div>
              	
 
+
         <div class="col-md-4">
           <h2>Our sponsors</h2>
           <p>The main tournament sponsor is McCrea Financial Services.</p>
@@ -41,6 +36,15 @@
           <p><a class="btn btn-default" href="./sponsor.shtml" role="button">View details &raquo;</a></p>
         </div>
       </div>
+
+      <div class="row">
+      <h4>2014 Results are now available!</h4>
+      <p>
+      A list of winners and runners up from the 2014 tournament can be found <a href="./wet2014.shtml">here</a>. For a write-up by our sponsor McCrea Financial Services, click <a href="http://www.mccreafs.co.uk/sponsorship-news/west-end-tennis-finals-day.html">here</a>.
+      </p>
+      </div>
+      <hr />
+      
       </div>
       <br />
       <div class="container">
