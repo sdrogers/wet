@@ -3,7 +3,7 @@
    <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="page-header">
       <div class="container">
-        <h2>The McCrea Financial Services West End Tournament 2015</h2>
+        <h2>The McCrea Financial Services West End Tournament 2015 (15th-29th August)</h2>
         <p><img src="./images/mccrea_small.jpg" style="float:left;margin:10px" width=150px>Welcome to the homepage for the McCrea Financial Services Glasgow West End Tennis Tournament. This year the tournament will be hosted by <a href="http://www.glasgowwestern.co.uk" target="new">Western Fitness and Rackets Club</a>, running from the 15th to the 29th of August, with matches being played across the <a href="./clubdetails.shtml">participating clubs</a>. More details <a href="./wet2015.shtml">here</a>.</p>
         <!-- The tournament will run from Friday 15th August to the weekend of the 30th/31st August. Entry is open to bona fide members of the participating clubs. Details of the events can be found <a href="./wet2014.shtml">here</a>.</p> -->
       </div>
