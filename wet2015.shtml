@@ -1,7 +1,7 @@
 <!--#include virtual="./headthings.html" -->
 	<div class="page-header">
 		<div class="container">
-		<h2>2015 Tournament - 15th-29th August 2015</h2>
+		<h2>2015 Tournament (15th-29th August 2015)</h2>
 		<p>Welcome to the homepage for the McCrea Financial Services Glasgow West End Tennis Tournament. The tournament is open to members of the local participating clubs and includes competition for all age ranges and abilities. The tournament generally runs for 2 weeks in August with matches taking place across all of the clubs, culminating in a fun finals day which is hosted by one of the participating clubs.</p>
 		</div>
 	</div>
@@ -13,7 +13,7 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-md-12"><h4>Online entries are now open - click <a href="http://www3.lta.org.uk/Competitions/Competition/?ctn=1-1LCL753" target="new">here</a></h4></div>
+			<div class="col-md-12"><p><a class="btn full-length btn-danger btn-lg" href="http://www3.lta.org.uk/Competitions/Competition/?ctn=1-1LCL753" target="new">Click here for online entry!</a></p></div>
 		</div>	
 		<div class="row">
 			<div class="col-md-12">Online entries are preferred, but you can also download the <a href="./documents/WETEntryForm2015.pdf">entry form</a> and hand it <b>with payment</b> to your club representative (details on form). <b>Entries without payment will not be accepted</b>.</div>
