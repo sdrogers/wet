@@ -9,18 +9,45 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-				<p>The 2015 tournament will run in August 2015 and will be hosted by <a href="http://www.glasgowwestern.co.uk" target="new">Western Fitness and Rackets Club</a>.</p>
+				<p>The 2015 tournament ran in August 2015 and was hosted by <a href="http://www.glasgowwestern.co.uk" target="new">Western Fitness and Rackets Club</a>.</p>
 			</div>
-		</div>
-		<div class="row">
-			<div class="col-md-12"><p><a class="btn full-length btn-danger btn-lg" href="http://www3.lta.org.uk/Competitions/Competition/?ctn=1-1LCL753" target="new">Click here for online entry!</a></p></div>
-		</div>	
-		<div class="row">
-			<div class="col-md-12">Online entries are preferred, but you can also download the <a href="./documents/WETEntryForm2015.pdf">entry form</a> and hand it <b>with payment</b> to your club representative (details on form). <b>Entries without payment will not be accepted</b>.</div>
 		</div>
 		<div class="row">
 			<div class="col-md-12"><p>&nbsp;</p>
 			<p>Tournament conditions can be downloaded <a href="./documents/WETConditions2015.pdf">here</a>.</p></div>
+		</div>
+		<div class="row">
+			<div class="col-md-12">
+				<h3>Winners</h3>
+				<table class="table table-striped">
+					<thead>
+					<tr>
+						<th>Event</th><th>Winner(s)</th><th>Runner(s)-up</th>
+					</tr>
+					</thead>
+					<tbody>
+					<tr><td>8U Mixed Singles</td><td>Harrison Goss-Pastor </td><td>Ellen Phillips</td></tr>
+					<tr><td>9U Mixed Singles</td><td>Robert Phillips </td><td>Harrison Goss-Pastor</td></tr>
+					<tr><td>10U Mixed Singles</td><td>Robert Phillips </td><td>Nicholas Sproule</td></tr>
+					<tr><td>12U Boys Singles</td><td>Aaron Purba </td><td>Kevin Lynch-Small</td></tr>
+					<tr><td>12U Boys Doubles</td><td>Alex Goss – Pastor and Aaron Purba </td><td>Kevin Lynch Small and Bilal Zahid</td></tr>
+					<tr><td>14U Boys Singles</td><td>Matthew Gibson-Smith </td><td>Aaron Purba</td></tr>
+					<tr><td>14U Boys Doubles</td><td>Ewan McGill and Murray Ross </td><td>Charlie Kerr and Joel Wintle</td></tr>
+					<tr><td>16U Boys Singles</td><td>Lewis Merrylees </td><td>Matthew Gibson-Smith</td></tr>
+					<tr><td>16U Girls Singles</td><td>Kiera Wintle </td><td>Rebecca Caldwell</td></tr>
+					<tr><td>16U Boys Doubles</td><td>Matthew Gibson-Smith and Thomas Whitelaw </td><td>Lewis Merrylees and Max Milarvie</td></tr>
+					<tr><td>16U Girls Doubles</td><td>Brooke Caldwell and Rebecca Caldwell </td><td>Catherine Butler and Eilidh Gilchrist</td></tr>
+					<tr><td>Open Mens Singles</td><td>Calum Gibson-Smith </td><td>Russell Allan</td></tr>
+					<tr><td>Open Womens Singles</td><td>Erin Russell </td><td>Kirsty MacDonald</td></tr>
+					<tr><td>Open Mens Doubles</td><td>Antony Miles and Tony Williamson </td><td>Andrew MacKintosh and Gordon Pettigrew</td></tr>
+					<tr><td>Open Womens Doubles</td><td>Helen Anderson and Carolyn Morgan </td><td>Julia Campbell and Carole Dick</td></tr>
+					<tr><td>Open Mixed Doubles</td><td>Tony Williamson and Carolyn Morgan </td><td>Calum Gibson-Smith and Alex McGuigan</td></tr>
+					<tr><td>45+ Mens Doubles</td><td>John James and Allan Whitelock </td><td>Lindsay Morrison and Craig Paterson</td></tr>
+					<tr><td>45+ Womens Doubles</td><td>TBC (6th September)</td><td></td></tr>
+					</tbody>
+				</table>
+				<p>The prize for the club winning the most events went to the hosts, Western LTC</p>
+			</div>
 		</div>
 	</div>
 
